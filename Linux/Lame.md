@@ -1,7 +1,7 @@
 Hostname: Lame
 IP Address: 10.10.10.3
 Operation System: Linux - Ubuntu 8.04
-Domain: (http://hackthebox.gr
+Domain: (http://hackthebox.gr)
 Ports: 21,22,139,445,3632
 
 AllPorts:
